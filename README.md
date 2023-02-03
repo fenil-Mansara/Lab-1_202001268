@@ -25,7 +25,7 @@ System should be reliable and accessible throughout the entire time when the lib
 * Flexibility - The system should make sure that users may quickly obtain relevant data. The user interface should be understandble to everyone. It might be much simpler if a variety of languages are available.
 * Accuracy - The system must ensure that the data saved about the books and the calculations for penalties is correct and consistent.
 
-## [Q.2] - Applicattion for deaf
+## [Q.2] - Applicattion for deaf people
 
 ## Scope -
 Sound recognition application is used for deaf or hard of hearing people
