@@ -1,7 +1,7 @@
 # Lab-1_202001268
 
 ## [Q.1] - LIBRARY INFORMATION SYSTEM[LIS]
-###      Functional requirements
+##     Functional requirements
 * A system should present all the necessary details about the book.
 * The system should ask users for their username and password when they want to issue a book. The system checks whether submitted data is accurate, such as whether a password was properly entered or whether a username was entered.
 * A system should allow users to look for books in the library using criteria like the title, author, release date, etc. in accordance with their needs.
@@ -14,7 +14,7 @@
 * When the books are returned, the system should calculate the fee for the overdue books and notify the user and librarian of the overdue books.
 * The system should offer a better search option for the books that are currently in stock.
 
-### Non-functional requirements
+## Non-functional requirements
 * Scalability - System must be usable forextended numbers of users if required and system shouldn't fail and should function consistently.
 * Security – To access the system, a user must enter a username and password. Additionally, it needs to confirm that it functions on the university LAN.
 System should be reliable and accessible throughout the entire time when the library is open. 
@@ -27,7 +27,7 @@ System should be reliable and accessible throughout the entire time when the lib
 
 ## [Q.2] - Applicattion for deaf
 
-### Scope -
+## Scope -
 Sound recognition application is used for deaf or hard of hearing people
 
 ## Features
